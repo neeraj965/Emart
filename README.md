@@ -1,10 +1,9 @@
 # Emart
 <h1>This is a E-commerce ,Developed by using react. And added authentication for logging<h1>
-<h2>purely responsive for desktop, mobile and tablet as well
-Tools
-Vs Code
-for desktop<h2>
-
+<h2>purely responsive for desktop, mobile and tablet as well<h2>
+<h2>Tools<h2>
+<h2>Vs Code<h2>
+<h2>for desktop</h2>
 
 
 
